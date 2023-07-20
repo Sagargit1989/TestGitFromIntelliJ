@@ -5,6 +5,8 @@ public class TestGitFunctionality {
         System.out.println("I am Sagar");
         System.out.println("I am Software  engineer");
         System.out.println("I am Software Test  engineer");
+        System.out.println("Added from local master");
+
 
 
 
